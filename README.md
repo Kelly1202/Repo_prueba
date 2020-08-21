@@ -1,2 +1,2 @@
 # Repo_prueba
-Capacitacion git
+Capacitación git
